@@ -1,4 +1,6 @@
 <?php
+namespace svay;
+
 //
 // This program is free software; you can redistribute it and/or
 // modify it under the terms of the GNU General Public License
@@ -18,7 +20,6 @@
 //         karthik_tharavaad@yahoo.com
 // @Contributor Maurice Svay
 //              maurice@svay.Com
-namespace svay;
 
 class FaceDetector
 {
